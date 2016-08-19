@@ -21,42 +21,26 @@ This widget is designed for displaying custom posts in a sidebar.
 2. Find Custom Post Type.
 3. Click Activate to use widget right away.
 
-== Frequently Asked Questions ==
-
-= Does this theme support any plugins? =
-
-portfolio includes support for Infinite Scroll in Jetpack.
-
 == Changelog ==
 
-= 1.0 - May 12 2015 =
+= 1.0 - Aug 19 2016 =
 * Initial release
 
-= 2.0 - August 19 2016 =
-* 2016 release
+== Adding Custom Posts to Widget ==
 
-== Options==
-1. In your admin panel, go to Appearance > Themes Options.
-2. Read through each option, click desired settings. 
-3. Click Save Changes to apply your changes right away.
+1. In your admin panel, go to My Travels > Add New.
+2. Enter desired Title and Content.
+3. In Featured Image > Click "Set featured image" > Upload Image to add a thumbnail.
+4. Click Publish to add thumbnail and excerpt to be displayed in a sidebar through the widget. 
 
-== Custom Query ==
+== Shortcode ==
 
 1. In your admin panel, go to Posts > Add New.
 2. Enter desired Title and Content.
 3. In Category > Click"custom-homepage".
 4. In Featured Image > Click "Set featured image" > Upload Image to add a thumbnail.
-4. Click Publish to add thumbnail and excerpt to custom homepage. 
+4. Click Publish to add thumbnail and excerpt to widget. 
 
 == Credits ==
 
-* Based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
-* normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
-
-
-
-
-
-
-
-
+(C) 2016 Juremy Seochand
