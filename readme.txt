@@ -1,7 +1,7 @@
 === Widget ===
 
 Contributors: automattic
-Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
+Tags: widget, custompt, custom-post-type, thumbnails, excerpt
 
 Requires at least: 4.0
 Tested up to: 4.5.3
@@ -30,16 +30,14 @@ This widget is designed for displaying custom posts in a sidebar.
 
 1. In your admin panel, go to My Travels > Add New.
 2. Enter desired Title and Content.
-3. In Featured Image > Click "Set featured image" > Upload Image to add a thumbnail.
+3. In Featured Image > Click "Set featured image" > Upload Image to add a image to post.
 4. Click Publish to add thumbnail and excerpt to be displayed in a sidebar through the widget. 
 
-== Shortcode ==
+== Shortcode 1 - Add Youtube Video==
 
-1. In your admin panel, go to Posts > Add New.
-2. Enter desired Title and Content.
-3. In Category > Click"custom-homepage".
-4. In Featured Image > Click "Set featured image" > Upload Image to add a thumbnail.
-4. Click Publish to add thumbnail and excerpt to widget. 
+1. In your admin panel, go to Posts or Page > Add New.
+2. In content area copy and paste, [embedvid width="600px" height="100%"][/embedvid].
+3. Click Publish to display Youtube Video..
 
 == Credits ==
 
